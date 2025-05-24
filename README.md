@@ -1,6 +1,5 @@
 
 # 📱 Numerical Analysis Flutter Mobile App (NumericoAnsys)
-# 📱 Numerical Analysis Flutter Mobile App (NumericoAnsys)
 
 [![Flutter](https://img.shields.io/badge/Flutter-Cross--Platform-blue?logo=flutter)](https://flutter.dev)
 [![Django](https://img.shields.io/badge/Django-Backend-green?logo=django)](https://www.djangoproject.com/)
