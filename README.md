@@ -1,6 +1,3 @@
-Here’s a well-structured and beautifully detailed `README.md` file for your project `Numerical Analysis Flutter Mobile App (NumericoAnsys)`:
-
----
 
 ```markdown
 # 📱 Numerical Analysis Flutter Mobile App (NumericoAnsys)
