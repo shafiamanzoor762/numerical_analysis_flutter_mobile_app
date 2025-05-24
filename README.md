@@ -77,7 +77,7 @@ A powerful and user-friendly cross-platform mobile application that enables user
 
 ---
 
-### Frontend (Flutter)
+<h3 id="frontend-flutter">📦 Frontend (Flutter)</h3>
 
 ```bash
 # Clone the repository
@@ -93,7 +93,7 @@ flutter run
 
 ---
 
-### 🌐 Backend (Django)
+<h3 id="backend-django">🌐 Backend (Django)</h3>
 
 ```bash
 # Navigate to the backend directory
