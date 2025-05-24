@@ -1,5 +1,4 @@
 
-```markdown
 # 📱 Numerical Analysis Flutter Mobile App (NumericoAnsys)
 
 A powerful and user-friendly cross-platform mobile application that enables users to solve numerical methods problems on the go. Built with a **Flutter** frontend and **Django** backend, it provides real-time solutions, interactive inputs, and visualizations for methods like integration, root finding, linear systems, and more.
