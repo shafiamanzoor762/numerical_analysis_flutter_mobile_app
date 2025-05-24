@@ -49,7 +49,7 @@ A powerful and user-friendly cross-platform mobile application that enables user
 
 ## 📲 App Screenshots
 
-> (📸 Add your screenshots here using markdown or GitHub uploads)
+
 ```
 
 ![Home Screen](screenshots/home.png)
@@ -71,7 +71,7 @@ A powerful and user-friendly cross-platform mobile application that enables user
 
 ---
 
-### 📦 Frontend (Flutter)
+### 📦 Frontend Flutter
 
 ```bash
 # Clone the repository
@@ -87,7 +87,7 @@ flutter run
 
 ---
 
-### 🌐 Backend (Django)
+### 🌐 Backend Django
 
 ```bash
 # Navigate to the backend directory
@@ -147,7 +147,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Fork the repo, then clone your fork
-git clone https://github.com/yourusername/numerical_analysis_flutter_mobile_app.git
+git clone https://github.com/shafiamanzoor762/numerical_analysis_flutter_mobile_app.git
 
 # Create a new branch
 git checkout -b feature/my-feature
@@ -170,27 +170,12 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) file fo
 
 ## 💬 Contact
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Shafia Manzoor](https://github.com/shafiamanzoor762)
 
 For questions or feedback, feel free to reach out:
 
-* 📧 [your.email@example.com](mailto:your.email@example.com)
-* 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 * 🌐 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
 ---
 
 > “Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.” – William Paul Thurston
-
-```
-
----
-
-### ✅ Next Steps
-
-- Place this in a file named `README.md` at the root of your GitHub repo.
-- Add screenshots in a `/screenshots/` folder or use links.
-- Update placeholders like name, email, GitHub links, and feature descriptions to match your exact project.
-
-Let me know if you’d like a matching `CONTRIBUTING.md`, `LICENSE`, or setup scripts!
-```
