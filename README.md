@@ -1,5 +1,12 @@
 
 # 📱 Numerical Analysis Flutter Mobile App (NumericoAnsys)
+# 📱 Numerical Analysis Flutter Mobile App (NumericoAnsys)
+
+[![Flutter](https://img.shields.io/badge/Flutter-Cross--Platform-blue?logo=flutter)](https://flutter.dev)
+[![Django](https://img.shields.io/badge/Django-Backend-green?logo=django)](https://www.djangoproject.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-Integrated-lightgrey?logo=sqlite)](https://www.sqlite.org/)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightblue?logo=android&logoColor=white)](https://flutter.dev/multi-platform)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A powerful and user-friendly cross-platform mobile application that enables users to solve numerical methods problems on the go. Built with a **Flutter** frontend and **Django** backend, it provides real-time solutions, interactive inputs, and visualizations for methods like integration, root finding, linear systems, and more.
 
@@ -174,7 +181,7 @@ Made with ❤️ by [Shafia Manzoor](https://github.com/shafiamanzoor762)
 
 For questions or feedback, feel free to reach out:
 
-* 🌐 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+* 🌐 LinkedIn: [Your Name](https://www.linkedin.com/in/shafia-manzoor-0b9596272/)
 
 ---
 
