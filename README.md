@@ -58,8 +58,7 @@ A powerful and user-friendly cross-platform mobile application that enables user
 
 ```
 
-![Home Screen](screenshots/home.png)
-![Root Finding Module](screenshots/root_finding.png)
+comming soon...
 
 ````
 
@@ -180,7 +179,7 @@ Made with ❤️ by [Shafia Manzoor](https://github.com/shafiamanzoor762)
 
 For questions or feedback, feel free to reach out:
 
-* 🌐 LinkedIn: [Your Name](https://www.linkedin.com/in/shafia-manzoor-0b9596272/)
+* 🌐 LinkedIn: [Shafia Manzoor](https://www.linkedin.com/in/shafia-manzoor-0b9596272/)
 
 ---
 
