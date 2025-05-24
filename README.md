@@ -17,8 +17,8 @@ A powerful and user-friendly cross-platform mobile application that enables user
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📲 App Screenshots](#-app-screenshots)
 - [🔧 Setup & Installation](#-setup--installation)
-  - [Frontend (Flutter)](#frontend-(flutter))
-  - [Backend (Django)](#backend-(django))
+  - [Frontend (Flutter)](#frontend-flutter)
+  - [Backend (Django)](#backend-django)
 - [🧪 How to Use](#-how-to-use)
 - [📚 Sources & Learning Materials](#-sources--learning-materials)
 - [🙌 Contributing](#-contributing)
@@ -77,7 +77,7 @@ A powerful and user-friendly cross-platform mobile application that enables user
 
 ---
 
-### 📦 Frontend (Flutter)
+### Frontend (Flutter)
 
 ```bash
 # Clone the repository
